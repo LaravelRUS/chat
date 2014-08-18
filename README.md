@@ -1,8 +1,7 @@
-Chat
+Официальный чат русского Laravel сообщества
 ====
 
-Официальный чат русского Laravel сообщества.
-
++ [Чат](https://gitter.im/LaravelRUS/chat)
 + [Официальный сайт Laravel](http://laravel.com)
 + [Группа Вконтакте](http://vk.com/laravel_rus)
 + [Русская документация по Laravel 4](http://laravel.ru/docs/v4/)
