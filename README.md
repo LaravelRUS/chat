@@ -4,7 +4,7 @@
 + [Чат](https://gitter.im/LaravelRUS/chat)
 + [Официальный сайт Laravel](http://laravel.com)
 + [Группа Вконтакте](http://vk.com/laravel_rus)
-+ [Русская документация по Laravel 4](http://laravel.ru/docs/v4/)
++ [Русская документация по Laravel 5](http://laravel.su/docs/5.0/)
 + [Laravel.ru](http://laravel.ru)
 
 А так же:
